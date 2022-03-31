@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/playing_now"
+        android:title="Playing Now"
+        android:icon="@drawable/ic_playing_now"/>
+
+    <item
+        android:id="@+id/most_popular"
+        android:title="Most Popular"
+        android:icon="@drawable/ic_most_popular"/>
+
+    <item
+        android:id="@+id/favourites"
+        android:title="Favourites"
+        android:icon="@drawable/ic_favourites"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_profile"/>
+</menu>
